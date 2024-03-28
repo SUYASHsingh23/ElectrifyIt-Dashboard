@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Calculator/static/css/main.d35bef59.css",
-    "main.js": "/Calculator/static/js/main.6098d043.js",
-    "index.html": "/Calculator/index.html",
-    "main.d35bef59.css.map": "/Calculator/static/css/main.d35bef59.css.map",
-    "main.6098d043.js.map": "/Calculator/static/js/main.6098d043.js.map"
+    "main.css": "/ElectrifyIt-Dashboard/static/css/main.b26fb240.css",
+    "main.js": "/ElectrifyIt-Dashboard/static/js/main.16725393.js",
+    "index.html": "/ElectrifyIt-Dashboard/index.html",
+    "main.b26fb240.css.map": "/ElectrifyIt-Dashboard/static/css/main.b26fb240.css.map",
+    "main.16725393.js.map": "/ElectrifyIt-Dashboard/static/js/main.16725393.js.map"
   },
   "entrypoints": [
-    "static/css/main.d35bef59.css",
-    "static/js/main.6098d043.js"
+    "static/css/main.b26fb240.css",
+    "static/js/main.16725393.js"
   ]
 }
